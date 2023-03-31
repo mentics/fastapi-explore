@@ -1,6 +1,3 @@
-image:
-  file: .gitpod.Dockerfile
-
 tasks:
   - name: Init
   - init: pip install -r requirements.txt
